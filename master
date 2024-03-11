@@ -1,0 +1,4 @@
+git checkout -b master
+git add .
+git commit -m "Primer commit en master"
+git push -u origin master
